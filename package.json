@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Mathieu <mathieu.k.legault@cyndx.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/node": "^20.11.6"
+  },
+  "scripts": {}
 }
